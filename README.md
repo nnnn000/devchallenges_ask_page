@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="index.html">
+    <a href="https://nnnn000.github.io/devchallenges_ask_page/">
       Demo
     </a>
     <span> | </span>
